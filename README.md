@@ -23,7 +23,15 @@
 - 使用 **4–5 週移動平均**來評估降價活動 3 與 5 的效果。  
 ### 對 C 類型商店
 - 將預算從 **降價活動 3 與 4** 轉移至 **降價活動 1 與 5**。  
-- 使用 **5–6 週移動平均**來評估降價活動 1 的效果。  
+- 使用 **5–6 週移動平均**來評估降價活動 1 的效果。
+
+## 技能展現
+- Python資料清理/處理  
+- EDA 
+- 資料視覺化  
+- 統計建模 (線性迴歸)  
+- 假設檢定  
+- 商業分析  
 
 資料來源: https://www.kaggle.com/datasets/manjeetsingh/retaildataset/data
 
@@ -54,5 +62,13 @@ The dataset is a real Amazon anonymized retail datasets contains 3 tables, total
 ### For Store Type C, 
 - Reallocate budget *away from* Markdown 3 and 4 *to* **Markdown 1 and 5**.
 - Measure the effects of Markdown 1 using **5-6** forward rolling averages of weekly sales.
+
+## Skills Demonstrated
+- Python Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- Statistical Modeling (Linear Regression)  
+- Hypothesis Testing  
+- Business Analytics  
 
 Data source: https://www.kaggle.com/datasets/manjeetsingh/retaildataset/data
